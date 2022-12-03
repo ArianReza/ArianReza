@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cara hidup**
 
-- 🎉 last project [Website Kelas](ArianReza.github.io)
+- 🎉 last project [Website Kelas](https://arianreza.github.io/)
 
 - ⚡ Fun fact **Dont trust this readme**
 
